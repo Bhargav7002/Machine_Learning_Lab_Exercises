@@ -1,2 +1,3 @@
-# Machine_Learning_Lab_Exercises
-Machine Learning Course assignments
+# Machine Learning Lab Exercises
+
+This repository contains my Machine Learning Lab exercises and implementations using Python and Google Colab.
